@@ -11,7 +11,7 @@
 
     Yo primero de todo las he creado todas y luego he ido haciendo el proceso. 
 
-    ![alt text](image.png)
+![alt text](image.png)
 
     Lo siguiente seria ir modificando nuestro txt con contenido para poder hacer los commit de cada una de las ramas.
 
@@ -22,7 +22,7 @@
 ### Merge
     Para combinar las ramas siempre preferiblemente habria que coger el entrante para que se refleje el cambio en un commit.
 
-    ![alt text](image-1.png)
+![alt text](image-1.png)
 
 ### Imagen del flujo
-    ![alt text](git_graph.png)
+![alt text](git_graph.png)
